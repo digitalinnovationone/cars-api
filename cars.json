@@ -1,8 +1,34 @@
-{
-  "id": 1,
-  "preco": "R$ 300.000,00",
-  "bateria": "300 kWh",
-  "potencia": "200cv",
-  "recarga": "30 min",
-  "urlPhoto": ""
-}
+[
+  {
+    "id": 1,
+    "preco": "R$ 300.000,00",
+    "bateria": "300 kWh",
+    "potencia": "200cv",
+    "recarga": "30 min",
+    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+  },
+  {
+    "id": 2,
+    "preco": "R$ 200.000,00",
+    "bateria": "230 kWh",
+    "potencia": "100cv",
+    "recarga": "20 min",
+    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+  },
+  {
+    "id": 3,
+    "preco": "R$ 554.000,00",
+    "bateria": "430 kWh",
+    "potencia": "400cv",
+    "recarga": "60 min",
+    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+  }
+  {
+    "id": 4,
+    "preco": "R$ 323.000,00",
+    "bateria": "130 kWh",
+    "potencia": "200cv",
+    "recarga": "50 min",
+    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+  }
+]
