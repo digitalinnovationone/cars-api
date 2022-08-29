@@ -22,7 +22,7 @@
     "potencia": "400cv",
     "recarga": "60 min",
     "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
-  }
+  },
   {
     "id": 4,
     "preco": "R$ 323.000,00",
